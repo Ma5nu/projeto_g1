@@ -1,5 +1,11 @@
 # Projeto G1 — Cobertura Vacinal no Brasil
 
+**Disciplina:** Linguagem de Programação — Análise e Visualização de Dados com Python  
+**Tema:** Cobertura Vacinal no Brasil  
+**Base:** `simulacao_cobertura_vacinal_brasil.csv`
+**Professor:** Alexandre Neves Louzada
+**Aluna**: Emanuelle de J. P. Motta.
+
 Projeto acadêmico da disciplina **Linguagem de Programação — Análise e Visualização de Dados com Python**.
 
 O projeto utiliza uma base simulada de cobertura vacinal para demonstrar um fluxo completo de análise de dados, incluindo:
